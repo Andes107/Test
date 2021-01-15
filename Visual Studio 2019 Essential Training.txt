@@ -1,0 +1,17 @@
+a solution is a container of zero or more proejcts
+
+projects always have a parent solution, either temporary or created
+
+
+create new project implies creating a parent solution right away
+
+you are asked to provide solution name when creating project simply
+because all projects are related to solution!!!
+
+3 windows: document, tool, dialogue windows
+
+document window allows you to type code.
+
+
+tools windows allow you do things, such as solution explorer and 
+properties
