@@ -1,0 +1,39 @@
+sql server 2019 RDBMS uses db engine to handle all
+tasks associated to storage, retrieval, creation and access
+operations of data
+
+it is a nature of server. it is always running on computer installed
+on listening incoming demands
+
+can also be installed in local computer
+
+a single installation of SQL server is called an instance containing
+a lot of tables
+
+there can be multiple instances 
+
+there can be useres, system administrator, database users and
+database administrator
+
+SQL is a standardized way to communicate with SQL
+server
+
+the specific implementation of MSSQL is called transact
+sql or simply t-sql or transact-sql
+
+also use t-sql to run administrative commands such as backup
+
+sql server is a command line system but microsoft also 
+provides a user friendly sql server management studio gui
+
+The express version of SQL server a free server that allows
+you to handle real life data whereas the developer version
+doesn't allow you to handle real life data
+
+SSMS is the gui of MSSQL server
+
+agents is used to run automatically administrative jobs
+
+server browser listens to network request!!! allows remote
+users to loging and access my server
+

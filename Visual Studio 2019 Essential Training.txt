@@ -12,6 +12,55 @@ because all projects are related to solution!!!
 
 document window allows you to type code.
 
-
 tools windows allow you do things, such as solution explorer and 
 properties
+
+double tab the tool window with ctrl pressed. This will dock the window again
+
+go to View for hidden windows
+
+pin button will hide that mother fucker
+
+right click on solution for adding new or existing project
+
+if you wanna add existing project, open csprojt file
+
+bin and obj are empty folders of a project before compilation and can be
+seen in solution explorer if you press show all button
+
+you can switch view from solution explorer and file explorer, both occuring
+in the solution explorer
+
+if you only want to see one set only in solution explorer, right click
+for scope to view, then it will only show element of the selected node
+then click home to go back to solution
+
+you can also open an additonal solution explorer by right click it
+
+tabs can be right clicked for closing options
+
+the solution explorer has a button to enable preview file and can be
+promoted to opening tab or just chage sth
+
+press the pin button on a tab to pin it on the left then you can close all
+but pin
+
+can go to option and show pin tab on a spearate window
+
+to hide all tool windows, go winsow and auto hide all
+
+Can right click tab for vertical view comparison and move to the right tab 
+or you can just drag
+
+go windows and reset all windows layout!!!
+
+you can even save window layout in window tab then choose to 
+reset windows layout or apply windows layout
+
+got to view for full screen shift alt enter to focus only on your code
+
+ctrl key and double click will return that tab to original pos
+
+ctrl tab will enter the change tab window and use arrows!!! this can choose
+explorer and tabs!!!
+
